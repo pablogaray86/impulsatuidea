@@ -1538,6 +1538,9 @@ section {
   color: #493c3e;
 }
 
+.mediosdepago ul{
+  padding-top: 35px;
+}
 .mediosdepago h5{
   text-align: center;
 }
