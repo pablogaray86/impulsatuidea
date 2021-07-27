@@ -1538,6 +1538,13 @@ section {
   color: #493c3e;
 }
 
+.mediosdepago h5{
+  text-align: center;
+}
+.mediosdepago i{
+  margin-left: 40%;
+}
+
 .social-links {
   margin: 0 10px 10px 0;
 }
